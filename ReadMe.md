@@ -1,6 +1,6 @@
 ## About Me:
 Hi there, I'm Ian, a brazilian software developer based in Brasília - DF. 
-<br> Currently studying front-end development (HTML, CSS, JS and React).
+<br> Currently working as a Flutter Mobile Developer at Code on Cloud.
 <br> Passionate about technology and everything related to it.
 
 ## Tech Stack:
